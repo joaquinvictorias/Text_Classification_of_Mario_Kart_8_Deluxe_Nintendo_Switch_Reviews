@@ -1,0 +1,2 @@
+# Text_Classification_of_Mario_Kart_8_Deluxe_Nintendo_Switch_Reviews
+El objetivo de este proyecto es el desarrollo de un modelo de Deep Learning, con Tensorflow, que prediga la valoración de los usuarios en base a las reseñas que estos escriban. Para ello, se ha decidio extraer los sentiment scores de los comentarios, mediante el modelo VADER de análisis de sentimiento, empleando estas variables como predictoras.
